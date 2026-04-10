@@ -1,0 +1,12 @@
+{
+  "empresa": "Diagonal Clinic Dental Barcelona | Carillas Dentales | Ortodoncia Invisible",
+  "web": "https://diagonalclinicdental.com",
+  "fecha": "2026-04-10T16:30:32.305Z",
+  "fixesApplied": [
+    "Injected modern CSS (typography, buttons, forms, responsive)",
+    "Added alt texts to 2 images"
+  ],
+  "totalFixes": 2,
+  "originalSize": 198682,
+  "improvedSize": 201459
+}
